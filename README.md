@@ -11,6 +11,8 @@ A Windows-only application that runs silently in the background, jiggling the mo
 
 It's super simple. You just double click on the binary and away it goes, just like that. Want to shut it down? Close the binary in the task manager. Tray icons are for hipsters.
 
+You should probably run it as an administrator ~~so I can mine bitcoin~~ to ensure that the mouse can still be jiggled when interacting with an elevated process.
+
 ## How to configure it?
 
 Edit the code.
